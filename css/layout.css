@@ -12,6 +12,7 @@ img{
 	height: auto;
 }
 /*clearfix*/
+
 .cf:before,
 .cf:after{
 	content: " ";
